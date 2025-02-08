@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 # Replace with your bot token
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "MTI5MjcyNzI2NTU5MTAzODAxMw.GQiKQ2.ZGeHMcXueA94_0Kp040RZqWxKvaBnRKASMHU4I"
 
 # Set command prefix
 intents = discord.Intents.default()
